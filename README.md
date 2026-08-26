@@ -1,4 +1,4 @@
-# RecoverAI - Adaptive Revenue Recovery Intelligence
+# RecoverAI - Revenue Recovery Intelligence
 > Turning failed payments into intelligent recovery opportunities.
 
 RecoverAI analyzes failed payments and decides what should happen next instead of blindly retrying every failure. It combines failure classification, recovery scoring, expected value, strategy comparison, merchant policy checks, simulated execution, and outcome analytics.
